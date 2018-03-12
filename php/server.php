@@ -1,5 +1,5 @@
 <?php
 	
-	$conexao = new mysqli("localhost", "root", "", "clientes") or die("Erro");
+	$conexao = new mysqli("localhost", "root", "", "seu_Banco") or die("Erro");
 
 ?>
