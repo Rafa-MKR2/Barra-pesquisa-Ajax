@@ -6,7 +6,7 @@
 <h1>Como usar:</h1>
 <br>
 1- Digite uma referencia de um produto que esteja cadastrada na tabela
-use como exemplo modelo,nome, preço ou numero de serie 
+use como exemplo <br> modelo,nome, preço ou numero de serie 
 <br>
 2 - para confirmar pesquisa aperte ENTER no caso de Notebook e Desktops
 
