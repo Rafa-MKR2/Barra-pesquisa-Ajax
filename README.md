@@ -9,3 +9,6 @@
 use como exemplo modelo,nome, preço ou numero de serie 
 <br>
 2 - para confirmar pesquisa aperte ENTER no caso de Notebook e Desktops
+
+3- Aplicção deverá lhe retorna todo resultado relacionado a sua pesquisa, <br>
+sem recarregar pagina, para coeça uma noma pesquisa selecione campo de pesquisa.
