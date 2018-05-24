@@ -1,4 +1,9 @@
 # Barra-pesquisa-Ajax
-É preciso configurar o aquivo de conexão com Banco de dados <br>
-1 - modifique arquivo server.php de acorco com banco.<br>
-local do arquivo:  php/server.php
+
+1- suba codigo da tabela para um servidor local
+2- certifiue de que verao do PHP seja 7. ou superior
+<br>
+<h1>Como usar:</h1>
+
+1- Digite uma referencia de um produto que esteja cadastrada na tabela
+use como exemplo modelo,nome, preço ou numero de serie 
