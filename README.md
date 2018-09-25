@@ -1,7 +1,7 @@
 # Barra-pesquisa-Ajax
 
 1- suba codigo da tabela para um servidor local <br>
-2- certifiue de que verao do PHP seja 7. ou superior
+2- certifiue de que versâo do PHP seja 7. ou superior
 <br>
 <h1>Como usar:</h1>
 <br>
